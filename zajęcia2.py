@@ -16,10 +16,33 @@ print(imie[0::2])
 # print(zdanie.count(' '))
 
 # zadanie 2
-import sys
-a = input("Podaj wartość a: ")
-b = input("Podaj wartość b: ")
-wynik = int(a) * int(b)
-s = sys.stdin.readline()
-print("wynik to: " +s)
-sys.stdout.write(s)
+# import sys
+# a = input("Podaj wartość a: ")
+# b = input("Podaj wartość b: ")
+# wynik = int(a) * int(b)
+# s = sys.stdin.readline()
+# print("wynik to: " +s)
+# sys.stdout.write(s)
+
+# Zadanie 3
+# True, False, Print, If, Or, Elif, Else
+
+# Zadanie 4 
+# a= input("Podaj liczbę: ")
+# wynik = def(int(a))
+# print("Wynik: " +str(wynik))
+
+# Zadanie 5 
+# a = input("Podaj liczbę a: ")
+# b = input("Podaj liczbę b: ")
+# c = input("Podaj liczbę c: ")
+# if int(a)>0 and int(a)<10 & int(a)>Int(b) or int(b)>int(c):
+# print("Warunek został spełniony")
+# else:
+#    print("Warunek nie został spełniony")
+
+# Zadanie 6
+# liczba = input("Podaj liczbę: ")
+# if (liczba % 5 > 0)
+
+# Zadanie 11
